@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      "@ldn0x7dc/react-native-slider@0.0.3",
+      "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives"
+    ]
+  ],
+  "_from": "@ldn0x7dc/react-native-slider@0.0.3",
+  "_id": "@ldn0x7dc/react-native-slider@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-/1MI0YguO65KojvYYYJ3JjkcUfE=",
+  "_location": "/@ldn0x7dc/react-native-slider",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@ldn0x7dc/react-native-slider@0.0.3",
+    "name": "@ldn0x7dc/react-native-slider",
+    "escapedName": "@ldn0x7dc%2freact-native-slider",
+    "scope": "@ldn0x7dc",
+    "rawSpec": "0.0.3",
+    "saveSpec": null,
+    "fetchSpec": "0.0.3"
+  },
+  "_requiredBy": [
+    "/react-native-media-kit"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ldn0x7dc/react-native-slider/-/react-native-slider-0.0.3.tgz",
+  "_spec": "0.0.3",
+  "_where": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ldn0x7dc/react-native-slider/issues"
+  },
+  "dependencies": {
+    "react-native-gesture-responder": "0.0.10"
+  },
+  "description": "",
+  "homepage": "https://github.com/ldn0x7dc/react-native-slider#readme",
+  "license": "ISC",
+  "main": "library/Slider.js",
+  "name": "@ldn0x7dc/react-native-slider",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldn0x7dc/react-native-slider.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
